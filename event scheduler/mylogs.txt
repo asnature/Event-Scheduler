@@ -1,0 +1,70 @@
+ Drank Water at 2020-11-09 15:48:37.528892
+ Drank Water at 2020-11-09 15:48:51.375962
+ Drank Water at 2020-11-09 15:54:04.585951
+ Done Physical Exercise at 2020-11-09 15:54:19.440117
+ Drank Water at 2020-11-09 15:54:22.535058
+ Done Eyes Exercise at 2020-11-09 15:54:28.775143
+ Drank Water at 2020-11-09 15:54:34.807673
+ Done Physical Exercise at 2020-11-09 15:54:42.813026
+ Drank Water at 2020-11-09 15:54:48.789111
+ Done Eyes Exercise at 2020-11-09 15:55:40.381587
+ Done Physical Exercise at 2020-11-09 15:55:43.582169
+ Drank Water at 2020-11-09 15:55:46.590929
+ Drank Water at 2020-11-09 15:55:58.644884
+ Done Physical Exercise at 2020-11-09 15:56:05.520084
+ Drank Water at 2020-11-09 15:56:15.158635
+ Done Eyes Exercise at 2020-11-09 15:56:19.012021
+ Drank Water at 2020-11-09 16:05:02.293938
+ Done Physical Exercise at 2020-11-09 16:05:28.486772
+ Drank Water at 2020-11-09 16:05:32.176197
+ Done Eyes Exercise at 2020-11-09 16:05:35.630376
+ Drank Water at 2020-11-09 16:08:43.721736
+ Done Physical Exercise at 2020-11-09 16:08:48.831293
+ Drank Water at 2020-11-09 16:09:02.536745
+ Done Eyes Exercise at 2020-11-09 16:09:06.255143
+ Done Physical Exercise at 2020-11-09 16:09:13.985383
+ Drank Water at 2020-11-09 16:10:22.939414
+ Done Physical Exercise at 2020-11-09 16:10:35.764810
+ Drank Water at 2020-11-09 16:10:40.271427
+ Done Eyes Exercise at 2020-11-09 16:10:45.159029
+ Drank Water at 2020-11-09 16:10:52.909080
+ Done Physical Exercise at 2020-11-09 16:10:58.679805
+ Drank Water at 2020-11-09 16:11:06.297796
+ Drank Water at 2020-11-09 16:11:36.540961
+ Done Physical Exercise at 2020-11-09 16:11:41.618035
+ Drank Water at 2020-11-09 16:11:49.395400
+ Done Eyes Exercise at 2020-11-09 16:11:56.235521
+ Drank Water at 2020-11-09 16:12:01.226428
+ Drank Water at 2020-11-09 16:22:23.452552
+ Drank Water at 2020-11-09 16:24:19.157821
+ Done Physical Exercise at 2020-11-09 16:24:33.654479
+ Drank Water at 2020-11-09 16:24:39.147989
+ Drank Water at 2020-11-09 16:27:30.466145
+ Done Physical Exercise at 2020-11-09 16:27:39.880799
+ Drank Water at 2020-11-09 16:27:44.476302
+ Done Eyes Exercise at 2020-11-09 16:27:52.899386
+ Drank Water at 2020-11-09 16:27:58.222360
+ Done Physical Exercise at 2020-11-09 16:28:01.152731
+ Drank Water at 2020-11-09 16:28:11.707285
+ Drank Water at 2020-11-09 16:29:27.414480
+ Drank Water at 2020-11-09 16:32:16.864690
+ Done Physical Exercise at 2020-11-09 16:32:31.582804
+ Drank Water at 2020-11-09 16:32:35.252859
+ Done Eyes Exercise at 2020-11-09 16:32:41.043084
+ Drank Water at 2020-11-09 16:34:04.571308
+ Done Physical Exercise at 2020-11-09 16:34:15.452285
+ Drank Water at 2020-11-09 16:34:20.037851
+ Done Eyes Exercise at 2020-11-09 16:34:25.853917
+ Drank Water at 2020-11-09 16:35:15.248872
+ Done Physical Exercise at 2020-11-09 16:35:36.677602
+ Drank Water at 2020-11-09 16:35:40.366533
+ Done Eyes Exercise at 2020-11-09 16:35:44.693064
+ Drank Water at 2020-11-09 16:35:52.775830
+ Done Physical Exercise at 2020-11-09 16:36:04.756866
+ Drank Water at 2020-11-09 16:40:06.722471
+ Done Physical Exercise at 2020-11-09 16:40:16.108200
+ Drank Water at 2020-11-09 16:45:31.882180
+ Done Physical Exercise at 2020-11-09 16:45:43.983542
+ Drank Water at 2020-11-09 16:45:48.450094
+ Done Eyes Exercise at 2020-11-09 16:45:52.212242
+ Drank Water at 2020-11-09 16:46:00.561966
